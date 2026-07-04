@@ -18,8 +18,8 @@ from pypdf import PdfReader
 # Path to the knowledge base folder (relative to backend/)
 KNOWLEDGE_BASE_DIR = os.path.join("..", "data", "knowledge_base")
 
-CHUNK_SIZE = 500      # characters per chunk
-CHUNK_OVERLAP = 50    # overlap between chunks, so context isn't lost at boundaries
+CHUNK_SIZE = 800      # characters per chunk
+CHUNK_OVERLAP = 100    # overlap between chunks, so context isn't lost at boundaries
 
 
 def extract_text_from_pdf(pdf_path):

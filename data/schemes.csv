@@ -1,0 +1,11 @@
+scheme_name,state,crop_type,land_size_category,income_category,benefits,documents_required,apply_link
+PM-KISAN,All India,All Crops,Any,Small and Marginal Farmers,Rs 6000 per year in 3 installments directly to bank account,Aadhaar Card;Land Records;Bank Passbook,https://pmkisan.gov.in
+Pradhan Mantri Fasal Bima Yojana,All India,All Crops,Any,All Farmers,Crop insurance against natural calamities pest and disease,Aadhaar Card;Land Records;Bank Passbook;Sowing Certificate,https://pmfby.gov.in
+Kisan Credit Card,All India,All Crops,Any,All Farmers,Low interest short term credit for farming needs,Aadhaar Card;Land Records;Bank Passbook;Passport Photo,https://www.myscheme.gov.in/schemes/kcc
+Soil Health Card Scheme,All India,All Crops,Any,All Farmers,Free soil testing and nutrient recommendations,Aadhaar Card;Land Records,https://soilhealth.dac.gov.in
+Kerala Paddy Cultivation Incentive,Kerala,Paddy,Any,Small and Marginal Farmers,Additional incentive per hectare for paddy cultivation,Aadhaar Card;Land Records;Bank Passbook,https://keralaagriculture.gov.in
+National Mission on Edible Oils,All India,Oilseeds,Any,All Farmers,Subsidy on seeds and cultivation support for oilseed crops,Aadhaar Card;Land Records,https://nmeo.dac.gov.in
+Rashtriya Krishi Vikas Yojana,All India,All Crops,Any,All Farmers,State level funding for agriculture infrastructure and innovation,Aadhaar Card;Land Records;Project Proposal,https://rkvy.nic.in
+Pradhan Mantri Krishi Sinchayee Yojana,All India,All Crops,Any,All Farmers,Subsidy for irrigation equipment including drip and sprinkler systems,Aadhaar Card;Land Records;Bank Passbook,https://pmksy.gov.in
+Kerala Coconut Development Scheme,Kerala,Coconut,Any,All Farmers,Subsidy for coconut seedlings and integrated farming,Aadhaar Card;Land Records;Bank Passbook,https://keralaagriculture.gov.in
+Sub Mission on Agricultural Mechanization,All India,All Crops,Any,All Farmers,Subsidy on purchase of farm machinery and equipment,Aadhaar Card;Land Records;Bank Passbook;Quotation for Machinery,https://agrimachinery.nic.in
